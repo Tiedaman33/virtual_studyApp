@@ -1,0 +1,95 @@
+0 verbose cli C:\Program Files\nodejs\node.exe C:\Program Files\nodejs\node_modules\npm\bin\npm-cli.js
+1 info using npm@10.7.0
+2 info using node@v18.20.4
+3 silly config:load:file:C:\Users\Bravin\AppData\Roaming\nvm\v18.20.4\node_modules\npm\npmrc
+4 silly config:load:file:C:\Users\Bravin\.npmrc
+5 silly config:load:file:C:\Users\Bravin\AppData\Roaming\npm\etc\npmrc
+6 verbose title npm install
+7 verbose argv "install"
+8 verbose logfile logs-max:10 dir:C:\Users\Bravin\virtual_studyApp\UsersBravinAppDataLocalnpm-cache\_logs\2025-02-05T13_30_06_903Z-
+9 verbose logfile C:\Users\Bravin\virtual_studyApp\UsersBravinAppDataLocalnpm-cache\_logs\2025-02-05T13_30_06_903Z-debug-0.log
+10 silly logfile done cleaning log files
+11 silly idealTree buildDeps
+12 warn EBADENGINE Unsupported engine {
+12 warn EBADENGINE   package: 'react-router@7.1.5',
+12 warn EBADENGINE   required: { node: '>=20.0.0' },
+12 warn EBADENGINE   current: { node: 'v18.20.4', npm: '10.7.0' }
+12 warn EBADENGINE }
+13 warn EBADENGINE Unsupported engine {
+13 warn EBADENGINE   package: 'react-router-dom@7.1.5',
+13 warn EBADENGINE   required: { node: '>=20.0.0' },
+13 warn EBADENGINE   current: { node: 'v18.20.4', npm: '10.7.0' }
+13 warn EBADENGINE }
+14 silly reify moves {}
+15 silly audit bulk request {
+15 silly audit   '@types/cookie': [ '0.6.0' ],
+15 silly audit   'array-union': [ '1.0.2' ],
+15 silly audit   'array-uniq': [ '1.0.3' ],
+15 silly audit   async: [ '3.2.5' ],
+15 silly audit   asynckit: [ '0.4.0' ],
+15 silly audit   axios: [ '1.7.9' ],
+15 silly audit   'balanced-match': [ '1.0.2' ],
+15 silly audit   'brace-expansion': [ '1.1.11' ],
+15 silly audit   'combined-stream': [ '1.0.8' ],
+15 silly audit   commander: [ '11.1.0' ],
+15 silly audit   commondir: [ '1.0.1' ],
+15 silly audit   'concat-map': [ '0.0.1' ],
+15 silly audit   cookie: [ '1.0.2' ],
+15 silly audit   'delayed-stream': [ '1.0.0' ],
+15 silly audit   'email-addresses': [ '5.0.0' ],
+15 silly audit   'escape-string-regexp': [ '1.0.5' ],
+15 silly audit   'filename-reserved-regex': [ '2.0.0' ],
+15 silly audit   filenamify: [ '4.3.0' ],
+15 silly audit   'find-cache-dir': [ '3.3.2' ],
+15 silly audit   'find-up': [ '4.1.0' ],
+15 silly audit   'follow-redirects': [ '1.15.9' ],
+15 silly audit   'form-data': [ '4.0.1' ],
+15 silly audit   'fs-extra': [ '11.2.0' ],
+15 silly audit   'fs.realpath': [ '1.0.0' ],
+15 silly audit   'gh-pages': [ '6.1.1' ],
+15 silly audit   glob: [ '7.2.3' ],
+15 silly audit   globby: [ '6.1.0' ],
+15 silly audit   'graceful-fs': [ '4.2.11' ],
+15 silly audit   inflight: [ '1.0.6' ],
+15 silly audit   inherits: [ '2.0.4' ],
+15 silly audit   jsonfile: [ '6.1.0' ],
+15 silly audit   'locate-path': [ '5.0.0' ],
+15 silly audit   'make-dir': [ '3.1.0' ],
+15 silly audit   'mime-db': [ '1.52.0' ],
+15 silly audit   'mime-types': [ '2.1.35' ],
+15 silly audit   minimatch: [ '3.1.2' ],
+15 silly audit   'object-assign': [ '4.1.1' ],
+15 silly audit   once: [ '1.4.0' ],
+15 silly audit   'p-limit': [ '2.3.0' ],
+15 silly audit   'p-locate': [ '4.1.0' ],
+15 silly audit   'p-try': [ '2.2.0' ],
+15 silly audit   'path-exists': [ '4.0.0' ],
+15 silly audit   'path-is-absolute': [ '1.0.1' ],
+15 silly audit   pify: [ '2.3.0' ],
+15 silly audit   pinkie: [ '2.0.4' ],
+15 silly audit   'pinkie-promise': [ '2.0.1' ],
+15 silly audit   'pkg-dir': [ '4.2.0' ],
+15 silly audit   'proxy-from-env': [ '1.1.0' ],
+15 silly audit   react: [ '19.0.0' ],
+15 silly audit   'react-dom': [ '19.0.0' ],
+15 silly audit   'react-router': [ '7.1.5' ],
+15 silly audit   'react-router-dom': [ '7.1.5' ],
+15 silly audit   scheduler: [ '0.25.0' ],
+15 silly audit   semver: [ '6.3.1' ],
+15 silly audit   'set-cookie-parser': [ '2.7.1' ],
+15 silly audit   'strip-outer': [ '1.0.1' ],
+15 silly audit   'trim-repeated': [ '1.0.0' ],
+15 silly audit   'turbo-stream': [ '2.4.0' ],
+15 silly audit   universalify: [ '2.0.1' ],
+15 silly audit   wrappy: [ '1.0.2' ]
+15 silly audit }
+16 http fetch GET 200 https://registry.npmjs.org/npm 746ms
+17 http fetch POST 200 https://registry.npmjs.org/-/npm/v1/security/advisories/bulk 694ms
+18 silly audit report {}
+19 notice
+19 notice New [31mmajor[39m version of npm available! [31m10.7.0[39m -> [34m11.1.0[39m
+19 notice Changelog: [34mhttps://github.com/npm/cli/releases/tag/v11.1.0[39m
+19 notice To update run: [4mnpm install -g npm@11.1.0[24m
+19 notice  { force: true, [Symbol(proc-log.meta)]: true }
+20 verbose exit 0
+21 info ok

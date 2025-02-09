@@ -1,0 +1,26 @@
+0 verbose cli C:\Program Files\nodejs\node.exe C:\Users\Bravin\AppData\Roaming\npm\node_modules\npm\bin\npm-cli.js
+1 info using npm@11.1.0
+2 info using node@v23.7.0
+3 silly config load:file:C:\Users\Bravin\AppData\Roaming\npm\node_modules\npm\npmrc
+4 silly config load:file:C:\Users\Bravin\.npmrc
+5 silly config load:file:C:\Users\Bravin\AppData\Roaming\npm\etc\npmrc
+6 verbose title npm exec tailwindcss init
+7 verbose argv "exec" "--" "tailwindcss" "init"
+8 verbose logfile logs-max:10 dir:C:\Users\Bravin\virtual_studyApp\UsersBravinAppDataLocalnpm-cache\_logs\2025-02-06T20_41_19_710Z-
+9 verbose logfile C:\Users\Bravin\virtual_studyApp\UsersBravinAppDataLocalnpm-cache\_logs\2025-02-06T20_41_19_710Z-debug-0.log
+10 silly logfile done cleaning log files
+11 silly packumentCache heap:2197815296 maxSize:549453824 maxEntrySize:274726912
+12 verbose stack Error: could not determine executable to run
+12 verbose stack     at getBinFromManifest (C:\Users\Bravin\AppData\Roaming\npm\node_modules\npm\node_modules\libnpmexec\lib\get-bin-from-manifest.js:17:23)
+12 verbose stack     at exec (C:\Users\Bravin\AppData\Roaming\npm\node_modules\npm\node_modules\libnpmexec\lib\index.js:202:15)
+12 verbose stack     at async Npm.exec (C:\Users\Bravin\AppData\Roaming\npm\node_modules\npm\lib\npm.js:207:9)
+12 verbose stack     at async module.exports (C:\Users\Bravin\AppData\Roaming\npm\node_modules\npm\lib\cli\entry.js:67:5)
+13 verbose pkgid tailwindcss@4.0.4
+14 error could not determine executable to run
+15 verbose cwd C:\Users\Bravin\virtual_studyApp
+16 verbose os Windows_NT 10.0.19045
+17 verbose node v23.7.0
+18 verbose npm  v11.1.0
+19 verbose exit 1
+20 verbose code 1
+21 error A complete log of this run can be found in: C:\Users\Bravin\virtual_studyApp\UsersBravinAppDataLocalnpm-cache\_logs\2025-02-06T20_41_19_710Z-debug-0.log

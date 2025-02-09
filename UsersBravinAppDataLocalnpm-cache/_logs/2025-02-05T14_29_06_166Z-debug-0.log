@@ -1,0 +1,36 @@
+0 verbose cli C:\Program Files\nodejs\node.exe C:\Program Files\nodejs\node_modules\npm\bin\npm-cli.js
+1 info using npm@10.7.0
+2 info using node@v18.20.4
+3 silly config:load:file:C:\Users\Bravin\AppData\Roaming\nvm\v18.20.4\node_modules\npm\npmrc
+4 silly config:load:file:C:\Users\Bravin\.npmrc
+5 silly config:load:file:C:\Users\Bravin\AppData\Roaming\npm\etc\npmrc
+6 verbose title npm start
+7 verbose argv "start"
+8 verbose logfile logs-max:10 dir:C:\Users\Bravin\virtual_studyApp\UsersBravinAppDataLocalnpm-cache\_logs\2025-02-05T14_29_06_166Z-
+9 verbose logfile C:\Users\Bravin\virtual_studyApp\UsersBravinAppDataLocalnpm-cache\_logs\2025-02-05T14_29_06_166Z-debug-0.log
+10 silly logfile done cleaning log files
+11 verbose stack Error: Missing script: "start"
+11 verbose stack
+11 verbose stack Did you mean one of these?
+11 verbose stack   npm star # Mark your favorite packages
+11 verbose stack   npm stars # View packages marked as favorites
+11 verbose stack
+11 verbose stack To see a list of scripts, run:
+11 verbose stack   npm run
+11 verbose stack     at RunScript.run (C:\Users\Bravin\AppData\Roaming\nvm\v18.20.4\node_modules\npm\lib\commands\run-script.js:79:13)
+11 verbose stack     at async module.exports (C:\Users\Bravin\AppData\Roaming\nvm\v18.20.4\node_modules\npm\lib\cli\entry.js:74:5)
+12 verbose cwd C:\Users\Bravin\virtual_studyApp
+13 verbose Windows_NT 10.0.19045
+14 verbose node v18.20.4
+15 verbose npm  v10.7.0
+16 error Missing script: "start"
+16 error
+16 error Did you mean one of these?
+16 error   npm star # Mark your favorite packages
+16 error   npm stars # View packages marked as favorites
+16 error
+16 error To see a list of scripts, run:
+16 error   npm run
+17 verbose exit 1
+18 verbose code 1
+19 error A complete log of this run can be found in: C:\Users\Bravin\virtual_studyApp\UsersBravinAppDataLocalnpm-cache\_logs\2025-02-05T14_29_06_166Z-debug-0.log
